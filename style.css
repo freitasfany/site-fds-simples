@@ -94,6 +94,10 @@ padding: 0 40px;
     transition: 0.3s ease;
 }
 
+.tabela__paises img{
+    border-radius: 10px;
+}
+
 .tabela__paises tr:hover{
     background-color: #ffe3ec;
 }
